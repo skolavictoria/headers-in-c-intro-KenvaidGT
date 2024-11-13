@@ -1,6 +1,6 @@
 #include "greetings.h"
 
-int main(){
-    say_hello;
+int main(void) {
+    say_hello();
     return 0;
 }
